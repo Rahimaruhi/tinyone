@@ -1,0 +1,66 @@
+psd to html
+
+first-layout define
+2nd- code commenting to html
+
+header and banner 
+font....
+ptsans-bold, regular
+font-family: 'PT Sans', sans-serif;
+
+color...
+black-#010101
+yellow-#fcdb00
+ash-#898989
+===============
+
+
+xxl=1440 ---1600--1800---2100
+xl=1200
+lg=1024
+md=768
+sm=576
+col=320
+
+
+screen maping .....
+        xxl/xl/lg     md    sm/col
+menu      22          22
+
+slider....
+        xxl/xl/lg     md    sm/col
+h1        32          32        25
+h2        20          20        18
+p         16          16        16
+icon      42          42        35
+pb       100         100        60
+
+
+padding.....
+
+             xxl/xl/lg     md    sm/col
+             
+pt             100
+pb             120
+h1              32         32
+p               20         20
+
+header          20         20       10
+slider          100        100      50-70
+feature/cont    100        80        50
+                120        100       70
+
+ Tinyone features
+ 
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis. color_#313841
+
+ Fully Responsive
+ Fully Layered PSD
+ Font Awesome Icons
+ HTML3 & CSS3
+ Email Template
+ Free to download
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum.
+ grey-#898989
+
+ Keep in touch with us            
